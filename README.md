@@ -7,6 +7,9 @@ CleanSpeech is built with Ruby on Rails.
 
 ### Contributors:
 Allxie - PM, Javascript, API
+
 Emily - Git Master, Back End, Javascript
+
 Jessica - Front End, Design
+
 Mike - RSpec testing
